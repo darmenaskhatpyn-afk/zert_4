@@ -1,0 +1,6 @@
+{
+  "name": "Shynyq — Мобильді фитнес қосымшасы",
+  "description": "Күнделікті жаттығулар, тамақтану және салауатты өмір салтына арналған заманауи мобильді фитнес қолданбасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
